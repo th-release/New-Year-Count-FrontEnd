@@ -16,5 +16,6 @@ function countDown() {
 function formatTime(time){
   return time < 10 ? (`0${time}`) : (time);
 }
+
 countDown();
 setInterval(countDown, 1000);
