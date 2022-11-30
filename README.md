@@ -8,7 +8,7 @@
 </ul>
 
 # 바로가기
-![바로가기 사이트]http://thenewyear.dothome.co.kr/index.php
+http://thenewyear.dothome.co.kr/index.php
 
 # image
 ![](https://user-images.githubusercontent.com/84012697/204585142-7902992e-b847-4b03-8224-6751cc148e2a.PNG)
