@@ -148,3 +148,31 @@ canvas {
 	cursor: crosshair;
 	display: block;
 }
+
+@media (max-width: 540px) {
+  .container {
+    font-size: 3.2rem;
+  }
+
+  textarea {
+    max-width: 350px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  input[type="text"] {
+    max-width: 350px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .submit {
+    max-width: 350px;
+  }
+
+  #newYear > h1 {
+    font-size: 3rem;
+  }
+}
